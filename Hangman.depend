@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1619617824 source:i:\mega\codeblocks_workspace\hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620156712 source:d:\programme\git\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620159777 source:d:\programme\git\hangman\hangman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620159777 source:d:\programme\git\hangman2\hangman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620160606 source:d:\programme\git\hangman2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"hangman.h"
+	<windows.h>
+
+1620160650 d:\programme\git\hangman2\hangman.h
+
+1620231335 source:c:\users\user\desktop\hangman2\hangman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620231092 source:c:\users\user\desktop\hangman2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"hangman.h"
+	<windows.h>
+
+1620160650 c:\users\user\desktop\hangman2\hangman.h
+
+1620231335 source:c:\users\user\desktop\git-hangman\hangman\hangman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
+1620231092 source:c:\users\user\desktop\git-hangman\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"hangman.h"
+	<windows.h>
+
+1620160650 c:\users\user\desktop\git-hangman\hangman\hangman.h
+

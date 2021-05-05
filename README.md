@@ -1,6 +1,6 @@
 # Hangman
 
-Hangman program in C.
+Hangman programm in C.
 
 This is written by 
 Johanna, Malte and Tim.
