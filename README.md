@@ -7,6 +7,6 @@ Johanna, Malte and Tim.
 
 We hope you will have fun!
 
-<h4>!! ATTENTION !!</h4>
+<h3>!! ATTENTION !!</h3>
 <h5>This Repo shows only the finished project!</h5>
-<h5 style="color: red">All other commits are here: https://github.com/MelL102/Hangman.</h5>
+<h5>All other commits are here: https://github.com/MelL102/Hangman.</h5>
